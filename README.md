@@ -11,7 +11,7 @@
 
 - 👨‍💻 Tous mes projets sont disponibles sur [mon portfolio "En cours"](https://www.jordandev.fr/)
 
-- 📫 Comment me joindre **jordandu62150@gmail.com**
+- 📫 Comment me joindre **jordandu62150@gmail.com**.
 
 <h3 align="left">Connectez-vous avec moi:</h3>
 <p align="left">
