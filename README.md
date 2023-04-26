@@ -9,7 +9,7 @@
 
 - 🌱 J'apprends actuellement **le Framework <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>,  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a> & <a href="https://recoiljs.org/" target="_blank" rel="noreferrer"><img src="https://recoiljs.org/fr/img/logo.svg" alt="recoil" width="40" height="40"/> </a>**
 
-- 👨‍💻 Tous mes projets sont disponibles sur [mon portfolio "En cours"](https://www.jordandev.fr/) 
+- 👨‍💻 Tous mes projets sont disponibles sur [mon portfolio "En cours"](https://www.jordandev.fr/)
 
 - 📫 Comment me joindre **jordandu62150@gmail.com**.
 
