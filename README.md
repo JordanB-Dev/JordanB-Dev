@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jordanb-dev" alt="jordanb-dev" /></a> </p>
 
-- 🔭 Je suis actuellement en Formation [Développeur d'application - JavaScript React](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react)
+- 🔭 Je suis actuellement en Formation [Développeur d'application - JavaScript React 14 mois](https://openclassrooms.com/fr/paths/516-developpeur-dapplication-javascript-react)
 
 - 🌱 J'apprends actuellement **le Framework <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>,  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a> & <a href="https://recoiljs.org/" target="_blank" rel="noreferrer"><img src="https://recoiljs.org/fr/img/logo.svg" alt="recoil" width="40" height="40"/> </a>**
 
