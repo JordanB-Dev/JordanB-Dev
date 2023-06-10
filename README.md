@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis Jordan Bachelez</h1>
-<h3 align="center">Passionné d'informatique et de nouvelles technologies depuis toujours, le monde du web est mon domaine de prédilection.</h3> 
+<h3 align="center">Passionné d'informatique et de nouvelles technologies depuis toujours, le monde du web est mon domaine de prédilection.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordanb-dev&label=Profile%20views&color=0e75b6&style=flat" alt="jordanb-dev" /></p>
 
