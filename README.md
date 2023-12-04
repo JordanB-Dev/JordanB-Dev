@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jordanb-dev&show_icons=true&locale=en" alt="jordanb-dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jordanb-dev&" alt="jordanb-dev" /></p>
+
+**Dernière mise à jour le dimanche 04 décembre 2023**
