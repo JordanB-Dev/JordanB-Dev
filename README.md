@@ -9,7 +9,7 @@
 
 - 🌱 J'apprends actuellement **le Framework <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>**
 
-- 👨‍💻 Tous mes projets sont disponibles sur [mon portfolio "En cours"](https://www.jordandev.fr)
+- 👨‍💻 Tous mes projets sont disponibles sur [mon portfolio](https://www.jordandev.fr)
 
 - 📫 Comment me joindre **contact@jordandev.fr**
 
