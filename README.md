@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jordanb-dev&" alt="jordanb-dev" /></p>
 
-**Dernière mise à jour le 20 juin 2024**
+**Dernière mise à jour le 21 juin 2024**
