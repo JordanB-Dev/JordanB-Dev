@@ -28,4 +28,4 @@ i<h1 align="center">Salut 👋, je suis Jordan Bachelez</h1>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jordanb-dev&" alt="jordanb-dev" /></p>
 
-**Dernière mise à jour le 07 Février 2025**
+**Dernière mise à jour le 08 Février 2025**
