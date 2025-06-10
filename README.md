@@ -35,4 +35,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jordanb-dev&" alt="jordanb-dev" /></p>
 
-**Dernière mise à jour le 09 juin 2025**
+**Dernière mise à jour le 10 juin 2025**
